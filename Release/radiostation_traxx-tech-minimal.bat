@@ -1,0 +1,6 @@
+rem start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 3840 1080 200 1 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" ""  4 100 0 0 0 0 0 255 255 0 255
+rem start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 400 400 200 1 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" ""  4 100 0 0 0 0 0 255 255 0 255
+rem start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 400 400 200 0 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" ""  4 100 0 0 0 0 0 255 255 0 255
+rem start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 1920 1080 200 0 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" ""  4 100 0 0 0 0 0 255 255 0 255
+rem start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 1920 1080 200 0 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" "" 4 100 0 0 0 150 0 50 255 0 0
+start spiradiospectrumplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 7200.0 0 0 1920 1080 200 0 0 0 24 spiradiospectrumplaywin32class spiradiospectrumplaywin32title "" "" 4 100 0 0 0 150 0 50 255 0 0
